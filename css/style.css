@@ -108,4 +108,13 @@ a{
         padding-top:2%;
         padding-bottom:2%;
     }
+    .popup .close{
+        top:20px;
+        width:25px;
+        height:25px;
+    }
+
+    .popup .name{
+        margin-top:20px;
+    }
 }
