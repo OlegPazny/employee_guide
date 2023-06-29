@@ -79,16 +79,17 @@ a{
     text-align: justify;
 }
 .display-6{
-    font-weight: 400;
+    font-size:24px;
+    font-weight: 700;
     margin-top:2%;
     margin-left:1%;
 }
 .lead{
     font-weight: 400;
-    font-size:24px;
+    font-size:20px;
 }
 #about-txt{
-    font-size: 22px;
+    font-size: 20px;
     margin-left:1%;
 }
 
