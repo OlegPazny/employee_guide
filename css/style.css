@@ -64,7 +64,6 @@ a{
     font-size:24px;
     font-weight: 700;
     margin-top:2%;
-    margin-left:1%;
 }
 .lead{
     font-weight: 400;
@@ -72,7 +71,6 @@ a{
 }
 #about-txt{
     font-size: 20px;
-    margin-left:1%;
 }
 
 .video{
@@ -90,6 +88,11 @@ a{
         background-size: 3.5%;
         padding-top:2%;
         padding-bottom:2%;
+        padding-left:10%;
+        background-position: 2.5% 50%;
+    }
+    .popup .content ul li{
+        padding-left:8%;
     }
     .popup .close{
         top:20px;

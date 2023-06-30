@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2020 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 17638.86 17638.86"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="180.261mm" height="180.261mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5743.93 5743.93"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#087990;stroke-width:1763.86;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:#30519A;stroke-width:458.64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
     .fil0 {fill:none}
    ]]>
   </style>
  </defs>
  <g id="Слой_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon class="fil0 str0" points="12347.21,5291.65 7055.54,7055.54 5291.65,12347.21 10583.32,10583.32 "/>
-  <circle class="fil0 str0" cx="8819.43" cy="8819.43" r="7937.5"/>
+  <g id="_2400844584912">
+   <polygon class="fil0 str0" points="4046.47,1697.46 2284.71,2284.71 1697.46,4046.47 3459.22,3459.22 "/>
+   <circle class="fil0 str0" cx="2871.96" cy="2871.96" r="2642.65"/>
+  </g>
  </g>
 </svg>
