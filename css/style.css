@@ -37,6 +37,14 @@ a{
 .note-nav img{
     height:3%;
     width:3%;
+    margin-bottom:10px;
+}
+.bg-blue{
+    padding:2%;
+    background-color: #cff4fc;
+    border:1px solid #9eeaf9;
+    color:#087990;
+    border-radius:0.35rem;
 }
 
 .header-h1 {
